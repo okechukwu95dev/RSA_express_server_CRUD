@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "express server for last API assignment ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "John Okechukwu Emeka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
